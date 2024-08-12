@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\ThucHanh\TimUCLN\bin\Debug\net8.0\TimUCLN.exe
+C:\Users\pc\Desktop\Module1\ThucHanh\TimUCLN\bin\Debug\net8.0\TimUCLN.deps.json
+C:\Users\pc\Desktop\Module1\ThucHanh\TimUCLN\bin\Debug\net8.0\TimUCLN.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\ThucHanh\TimUCLN\bin\Debug\net8.0\TimUCLN.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\TimUCLN\bin\Debug\net8.0\TimUCLN.pdb
+C:\Users\pc\Desktop\Module1\ThucHanh\TimUCLN\obj\Debug\net8.0\TimUCLN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\ThucHanh\TimUCLN\obj\Debug\net8.0\TimUCLN.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\TimUCLN\obj\Debug\net8.0\TimUCLN.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\ThucHanh\TimUCLN\obj\Debug\net8.0\TimUCLN.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\TimUCLN\obj\Debug\net8.0\TimUCLN.sourcelink.json
+C:\Users\pc\Desktop\Module1\ThucHanh\TimUCLN\obj\Debug\net8.0\TimUCLN.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\TimUCLN\obj\Debug\net8.0\refint\TimUCLN.dll
+C:\Users\pc\Desktop\Module1\ThucHanh\TimUCLN\obj\Debug\net8.0\TimUCLN.pdb
+C:\Users\pc\Desktop\Module1\ThucHanh\TimUCLN\obj\Debug\net8.0\TimUCLN.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\ThucHanh\TimUCLN\obj\Debug\net8.0\ref\TimUCLN.dll
